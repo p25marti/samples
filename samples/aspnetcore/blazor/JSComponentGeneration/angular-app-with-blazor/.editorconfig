@@ -1,0 +1,21 @@
+# EditorConfig for Angular project with Blazor
+
+# JSON files (including package.json) use tabs
+[*.json]
+indent_style = tab
+indent_size = 4
+
+# TypeScript files
+[*.ts]
+indent_style = space
+indent_size = 2
+
+# HTML files
+[*.html]
+indent_style = space
+indent_size = 2
+
+# CSS/SCSS files
+[*.{css,scss}]
+indent_style = space
+indent_size = 2
