@@ -7,6 +7,18 @@
 
 ## What's in Open Iconic?
 
+## 🏈 Superbowl Announcement
+
+Don't miss the biggest game of the year! The Superbowl is coming soon.
+
+**Date:** February 11, 2024
+**Time:** 6:30 PM ET
+**Where to Watch:** Available on major networks and streaming platforms
+
+Join millions of fans for an unforgettable experience featuring top teams, exciting halftime entertainment, and memorable commercials. Visit [superbowl.com](https://superbowl.com) for more information.
+
+---
+
 * 223 icons designed to be legible down to 8 pixels
 * Super-light SVG files - 61.8 for the entire set 
 * SVG sprite&mdash;the modern replacement for icon fonts

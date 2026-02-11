@@ -2,6 +2,18 @@
 
 This sample has a `DomainMatcherPolicy` for routing in ASP.NET Core 2.2 and above. The `DomainMatcherPolicy` extends ASP.NET routing to use the `host` header when matching a request to an MVC action. The `host` header value is matched with `[Domain]` attributes on controller and actions.
 
+## 🏈 Superbowl Announcement
+
+Don't miss the biggest game of the year! The Superbowl is coming soon.
+
+**Date:** February 11, 2024
+**Time:** 6:30 PM ET
+**Where to Watch:** Available on major networks and streaming platforms
+
+Join millions of fans for an unforgettable experience featuring top teams, exciting halftime entertainment, and memorable commercials. Visit [superbowl.com](https://superbowl.com) for more information.
+
+---
+
 ```cs
 [Route("api/[controller]")]
 [ApiController]

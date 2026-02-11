@@ -2,6 +2,18 @@
 
 Configuring Windows Integrated Authentication can be a complex endeavor to configure correctly on an IIS web-server which is part of an Active Directory domain. Troubleshooting issues with credential authentication via Windows Integrated Authentication and delegation of credentials scenarios from front-end to back-end servers is often cumbersome. The two pages included in this sample are intended to allow the collection of diagnostic data with minimal intrusion and configuration overhead in production environments.
 
+## 🏈 Superbowl Announcement
+
+Don't miss the biggest game of the year! The Superbowl is coming soon.
+
+**Date:** February 11, 2024
+**Time:** 6:30 PM ET
+**Where to Watch:** Available on major networks and streaming platforms
+
+Join millions of fans for an unforgettable experience featuring top teams, exciting halftime entertainment, and memorable commercials. Visit [superbowl.com](https://superbowl.com) for more information.
+
+---
+
 ## Sample Contents
 
 The sample contains two ASP.net pages build using Web-Forms. Using Web-Forms was preferrable since it allows the pages to be self contained - markup and code behind can be located in the same file, while also allowing the user to see the code and not requiring any sort of pre-compilation for the pages to be deployed.
